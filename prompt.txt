@@ -1,0 +1,45 @@
+2D Graphics Editor Project - Prompts Used
+
+1. Design and implement a menu-driven 2D Graphics Editor in C using a 2D character array as the drawing canvas.
+
+2. The canvas should initially be filled with the character '_' (underscore), and graphical objects should be drawn using the character '*' (asterisk).
+
+3. Write functions to draw:
+   - Rectangle
+   - Line
+   - Triangle
+   - Circle
+
+4. Add objects to the picture.
+
+5. Delete objects from the picture.
+
+6. Modify objects in the picture.
+
+7. Use a 2D array of characters to store the picture.
+
+8. Write a function to display the picture.
+
+9. Use separate canvases for Rectangle, Line, Triangle, and Circle.
+
+10. Add a feature to clear all canvases.
+
+11. Create a menu-driven interface for user interaction.
+
+12. Implement Feature 1: Rectangle Canvas.
+
+13. Implement Feature 2: Line Canvas.
+
+14. Implement Feature 3: Triangle Canvas.
+
+15. Implement Feature 4: Circle Canvas.
+
+16. Implement Feature 5: Delete Object.
+
+17. Implement Feature 6: Modify Rectangle.
+
+18. Implement Feature 7: Clear All Canvases.
+
+19. Provide compile and run commands for VS Code/Codespaces.
+
+20. Provide Git add, commit, push, and commit history commands.
